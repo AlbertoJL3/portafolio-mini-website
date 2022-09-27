@@ -1,0 +1,38 @@
+* {
+    background-color: white;
+    font-family: "Times New Roman", Times, serif; 
+}
+body {
+    display: block; 
+    width: 80%;
+}
+
+li {
+    display: inline-block;
+    float: right;
+    margin-left: 10px;
+}
+caption {
+    display: block;
+    position: relative;
+    padding: 5px; 
+}
+
+img {
+    width: 550px;
+    height: 400px;
+    display: block;
+}
+form {
+    border: 2px solid crimson;
+    border-radius: 1em;
+    width: 20%
+}
+
+label,
+input {
+text-align: center;
+padding-left: 5%;
+    border: 2px solid red;
+    border-radius: 4px;
+}
