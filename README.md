@@ -18,4 +18,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Links
 The launched webpage can be found here: 
 ## Screenshot
-image.png
+
+![image](/assets/images/screencapture-file-Users-aj-code-bootcamp-activities-portafolio-mini-website-index-html-2022-10-06-21_07_27.png)
