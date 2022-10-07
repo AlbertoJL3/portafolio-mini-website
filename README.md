@@ -18,3 +18,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Links
 The launched webpage can be found here: 
 ## Screenshot
+image.png
