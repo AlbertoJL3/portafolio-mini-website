@@ -86,7 +86,7 @@ nav {
 
 }
 
-.project_img {
+img {
     position: relative;
     height: 100%;
     width: 90%;
@@ -94,9 +94,8 @@ nav {
     border: 1px solid white;
     border-radius: 5px;
 }
-.project_img:hover {
+img:hover {
     transform: scale(1.05);
-    overflow
 }
 .about_me {
     display: flex;
@@ -107,7 +106,6 @@ nav {
     flex-wrap: wrap;
     position: relative;
     overflow: hidden;
-
 }
 
 .box1 {
